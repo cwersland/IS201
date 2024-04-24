@@ -1,0 +1,38 @@
+#top{
+    text-decoration: underline;
+}
+
+.boldtext1{
+    color: rgb(226, 45, 45);
+}
+
+body{
+    background-color: bisque;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+ol.myol{
+    display: inline-block;
+    text-align: left;
+}
+
+.header1{
+    font-size: xx-large;
+}
+
+.mainbody1{
+    font-size: large;
+}
+
+.tableauPlaceholder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
